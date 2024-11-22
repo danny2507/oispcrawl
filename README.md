@@ -19,8 +19,8 @@ This project is a web crawler designed to facilitate crawling data from the HCMU
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/hcmut-oisp-crawler.git
-    cd hcmut-oisp-crawler
+    git clone https://github.com/danny2507/oispcrawl.git
+    cd oispcrawl
     ```
 
 2. Install the required packages:
